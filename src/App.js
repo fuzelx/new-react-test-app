@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 
-mport Header from './Header.jsx';
+import Header from './Header.jsx';
 import Footer from "./Footer.jsx";
 import ReactDOM from 'react-dom/client';
 import Card from './Card.jsx';
