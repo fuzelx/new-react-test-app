@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-
+import React from 'react';
 import Header from './Header.jsx';
 import Footer from "./Footer.jsx";
 import ReactDOM from 'react-dom/client';
