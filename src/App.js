@@ -1,5 +1,10 @@
 import logo from './logo.svg';
-import './App.css';
+
+mport Header from './Header.jsx';
+import Footer from "./Footer.jsx";
+import Note from './note.jsx';
+import Card from './Card.jsx';
+import items from './items.js';
 
 function App() {
   return (
